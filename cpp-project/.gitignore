@@ -1,0 +1,8 @@
+# Compiled binaries and object files
+*.exe
+*.class
+*.obj
+*.o
+
+# VS Code metadata
+.vscode/
